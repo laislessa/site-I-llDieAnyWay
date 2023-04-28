@@ -1,0 +1,71 @@
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Bruno Ace SC;
+    background-color: hsl(214.8deg 56.82% 17.25%)
+}
+html, body{
+    height: 100%;
+}
+header{
+    height: 100px;
+    color: white;
+}
+
+.menu{
+    text-align: right;
+    padding-top: 30px;
+}
+.menu h3{
+    color: rgb(247, 247, 247);
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    margin-right:60px;
+}
+
+.menu a{
+    color: rgb(247, 247, 247);
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 50px;
+}
+
+.jogo img{
+  width: 50%;
+
+}
+
+#jogos button{
+    width: 30%;
+    background-color:red;
+    text-align: center;
+    margin-left: 150px;
+
+}
+#main {
+    padding: 20px;
+    color: white;
+}
+#main h3{
+    padding: 20px;
+    
+}
+#main h2{
+    margin-top: 2px;
+}
+
+div.container1 {
+    height: 10em;
+    position: relative }
+div.container1 p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+footer{
+    margin-top: 100;
+        }
+        
