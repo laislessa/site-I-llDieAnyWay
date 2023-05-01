@@ -2,7 +2,8 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Bruno Ace SC;
-    background-color: hsl(214.8deg 56.82% 17.25%)
+    background-color: hsl(214.8deg 56.82% 17.25%);
+    font-size:25px;
 }
 html, body{
     height: 100%;
@@ -10,6 +11,7 @@ html, body{
 header{
     height: 100px;
     color: white;
+
 }
 
 .menu{
@@ -60,6 +62,7 @@ div.container1 {
     position: relative }
 div.container1 p {
     margin: 0;
+    color: aqua;
     position: absolute;
     top: 50%;
     left: 50%;
